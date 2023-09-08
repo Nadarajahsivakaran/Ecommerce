@@ -1,0 +1,17 @@
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\bin\Debug\net7.0\Product.DataAccess.deps.json
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\bin\Debug\net7.0\Product.DataAccess.runtimeconfig.json
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\bin\Debug\net7.0\Product.DataAccess.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\bin\Debug\net7.0\Product.DataAccess.pdb
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\bin\Debug\net7.0\Product.Models.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\bin\Debug\net7.0\Product.Models.pdb
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\Product.DataAccess.csproj.AssemblyReference.cache
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\Product.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\Product.DataAccess.AssemblyInfoInputs.cache
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\Product.DataAccess.AssemblyInfo.cs
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\Product.DataAccess.csproj.CoreCompileInputs.cache
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\Product.DataAccess.csproj.CopyComplete
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\Product.DataAccess.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\refint\Product.DataAccess.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\Product.DataAccess.pdb
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\Product.DataAccess.genruntimeconfig.cache
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.DataAccess\obj\Debug\net7.0\ref\Product.DataAccess.dll

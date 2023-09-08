@@ -1,0 +1,15 @@
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\bin\Debug\net7.0\E-Commerce.DataServices.deps.json
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\bin\Debug\net7.0\E-Commerce.DataServices.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\bin\Debug\net7.0\E-Commerce.DataServices.pdb
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\bin\Debug\net7.0\E-commerce.Models.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\bin\Debug\net7.0\E-commerce.Models.pdb
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\obj\Debug\net7.0\E-Commerce.DataServices.csproj.AssemblyReference.cache
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\obj\Debug\net7.0\E-Commerce.DataServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\obj\Debug\net7.0\E-Commerce.DataServices.AssemblyInfoInputs.cache
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\obj\Debug\net7.0\E-Commerce.DataServices.AssemblyInfo.cs
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\obj\Debug\net7.0\E-Commerce.DataServices.csproj.CoreCompileInputs.cache
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\obj\Debug\net7.0\E-Commerce.DataServices.csproj.CopyComplete
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\obj\Debug\net7.0\E-Commerce.DataServices.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\obj\Debug\net7.0\refint\E-Commerce.DataServices.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\obj\Debug\net7.0\E-Commerce.DataServices.pdb
+E:\E-Commerce -Micro Service\.Net\E-Commerce\E-Commerce.DataServices\obj\Debug\net7.0\ref\E-Commerce.DataServices.dll

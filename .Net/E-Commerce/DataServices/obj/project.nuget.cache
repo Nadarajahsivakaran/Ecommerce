@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fGB1tGqKdPB9jtTfjJ4QXEVkrpnxWd0ONn/2U4B/fdYvWSk1vBO5GQUD7h6d+IitRHUC2jXE7mxw1gjRBj+T8Q==",
+  "success": true,
+  "projectFilePath": "E:\\E-Commerce -Micro Service\\.Net\\E-Commerce\\DataServices\\DataServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

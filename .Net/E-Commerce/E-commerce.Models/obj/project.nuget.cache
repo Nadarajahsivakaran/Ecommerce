@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jxvOs5OsXU+11LD9J+ruPqWZITaiC9LhBp23lDYVdsA1BPQbfW7HtYhPNX24UiWSlTiPymSEGJsE6AMxF41nTg==",
+  "success": true,
+  "projectFilePath": "E:\\E-Commerce -Micro Service\\.Net\\E-Commerce\\E-commerce.Models\\E-commerce.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

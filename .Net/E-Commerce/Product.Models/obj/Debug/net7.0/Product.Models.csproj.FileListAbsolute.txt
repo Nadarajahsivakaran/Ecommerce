@@ -1,0 +1,11 @@
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\bin\Debug\net7.0\Product.Models.deps.json
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\bin\Debug\net7.0\Product.Models.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\bin\Debug\net7.0\Product.Models.pdb
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\obj\Debug\net7.0\Product.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\obj\Debug\net7.0\Product.Models.AssemblyInfoInputs.cache
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\obj\Debug\net7.0\Product.Models.AssemblyInfo.cs
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\obj\Debug\net7.0\Product.Models.csproj.CoreCompileInputs.cache
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\obj\Debug\net7.0\Product.Models.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\obj\Debug\net7.0\refint\Product.Models.dll
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\obj\Debug\net7.0\Product.Models.pdb
+E:\E-Commerce -Micro Service\.Net\E-Commerce\Product.Models\obj\Debug\net7.0\ref\Product.Models.dll
